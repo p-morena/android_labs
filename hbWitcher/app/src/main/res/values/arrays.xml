@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="person">
+        <item>Авалакх</item>
+        <item>Весемир</item>
+        <item>Геральт</item>
+        <item>Єредін</item>
+        <item>Любисток</item>
+        <item>Йенефер</item>
+        <item>Присцилла</item>
+        <item>Трісс</item>
+        <item>Циріла</item>
+    </string-array>
+
+    <string-array name="monster">
+        <item>Біс</item>
+        <item>Доплер</item>
+        <item>Королівська віверна</item>
+        <item>Леший</item>
+        <item>Мгляк</item>
+        <item>Полуденка</item>
+        <item>Трісс</item>
+        <item>Циріла</item>
+    </string-array>
+
+    <string-array name="animal">
+        <item>Ведмідь</item>
+        <item>Волк</item>
+        <item>Собака</item>
+
+    </string-array>
+
+    <string-array name="elixir">
+        <item>Білий ведмідь</item>
+        <item>Грім</item>
+        <item>Кішка</item>
+        <item>Ластівка</item>
+        <item>Сова</item>
+        </string-array>
+
+    <string-array name="sword">
+        <item>Арбалет</item>
+        <item>Гвестог</item>
+        <item>Міч Дроп-Блан</item>
+        <item>Могрим</item>
+        <item>Місячній міч</item>
+        </string-array>
+
+    <string-array name="magic">
+        <item>Знак Аард</item>
+        <item>Знак Аксій</item>
+        <item>Знак Квен</item>
+        <item>Знак Ігні</item>
+        <item>Знак Ірден</item>
+    </string-array>
+
+
+    <string-array name="about">
+           </string-array>
+
+</resources>

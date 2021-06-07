@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">handbookWitcher3</string>
+    <string name="lovely">Вподобайка</string>
+    <string name="person">Персонажі</string>
+    <string name="monster">Монстри</string>
+    <string name="magic_m">Магічні</string>
+    <string name="animal_m">Звичайні</string>
+    <string name="elixire">Еліксири</string>
+    <string name="settings">Налаштування</string>
+</resources>

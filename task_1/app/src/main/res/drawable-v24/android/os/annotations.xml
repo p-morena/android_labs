@@ -1,0 +1,6 @@
+<root>
+    <item name='android.os.Handler void dispatchMessage(android.os.Message) 0'>
+        <annotation name='java.lang.Deprecated' />
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+</root>

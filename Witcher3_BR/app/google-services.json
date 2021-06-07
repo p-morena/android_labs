@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "984032211795",
+    "firebase_url": "https://witcher3-br.firebaseio.com",
+    "project_id": "witcher3-br",
+    "storage_bucket": "witcher3-br.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984032211795:android:5619ed67c12e57b1bd27a6",
+        "android_client_info": {
+          "package_name": "com.example.start_v"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984032211795-52kpt32m3d6j1mn5oo4sqjje8vm44ak1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.start_v",
+            "certificate_hash": "32e5da2bca836116b015f2853b5252d8865d85ee"
+          }
+        },
+        {
+          "client_id": "984032211795-fs6ce4mr02en0jhvu3npcnauv9aga06r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADDiyskl_F6dipHBVySTGcmrhqE73UeDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984032211795-fs6ce4mr02en0jhvu3npcnauv9aga06r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

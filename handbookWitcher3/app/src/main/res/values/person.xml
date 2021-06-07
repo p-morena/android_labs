@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pers">
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+    </string-array>
+
+    <string-array name="pers_title">
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+        <item>gkjgk</item>
+    </string-array>
+
+
+</resources>

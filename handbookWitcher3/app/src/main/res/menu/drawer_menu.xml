@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ShowIn="navigation_view">
+<item android:title="@string/lovely" android:id="@+id/id_lovely" android:icon="@drawable/heart"/>
+    <item android:title="@string/person" android:id="@+id/id_hero" android:icon="@drawable/hero"/>
+    <item android:title="@string/monster" android:icon="@drawable/monster">
+        <menu>
+            <item android:title="@string/magic_m" android:id="@+id/id_magic"/>
+            <item android:title="@string/animal_m" android:id="@+id/idanimal"/>
+
+        </menu>
+
+    </item>
+
+    <item android:title="@string/elixire" android:id="@+id/id_elixire" android:icon="@drawable/elixier"/>
+    <item android:title="@string/settings" android:id="@+id/id_settings" android:icon="@drawable/setting"/>
+</menu>

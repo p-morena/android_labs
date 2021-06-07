@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">laba_6</string>
+    <string-array name="auto">
+        <item>Reno</item>
+        <item>Hyondai</item>
+        <item>Toyota</item>
+        <item>BMW</item>
+        <item>Nissan</item>
+        <item>Subaru</item>
+        <item>Ford</item>
+        <item>Volkswagen</item>
+        <item>Honda</item>
+        <item>Lexus</item>
+    </string-array>
+</resources>

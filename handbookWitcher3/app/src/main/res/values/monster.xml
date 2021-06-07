@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animal">
+        <item>hvkv</item>
+        <item>hvkv</item>
+        <item>hvkv</item>
+        <item>hvkv</item>
+        <item>hvkv</item>
+    </string-array>
+    <string-array name="m_monstr">
+        <item>hgkjgkjg</item>
+        <item>hgkjgkjg</item>
+        <item>hgkjgkjg</item>
+        <item>hgkjgkjg</item>
+        <item>hgkjgkjg</item>
+    </string-array>
+
+    <string-array name="animal_title">
+        <item>hvkv</item>
+        <item>hvkv</item>
+        <item>hvkv</item>
+        <item>hvkv</item>
+        <item>hvkv</item>
+    </string-array>
+    <string-array name="m_monstr_title">
+        <item>hgkjgkjg</item>
+        <item>hgkjgkjg</item>
+        <item>hgkjgkjg</item>
+        <item>hgkjgkjg</item>
+        <item>hgkjgkjg</item>
+    </string-array>
+
+</resources>

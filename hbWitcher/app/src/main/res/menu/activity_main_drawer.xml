@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/person"
+            android:icon="@drawable/heart"
+            android:title="@string/person" />
+        <item
+            android:id="@+id/monster"
+            android:icon="@drawable/monster"
+            android:title="@string/monster" />
+        <item
+            android:id="@+id/animal"
+            android:icon="@drawable/anim"
+            android:title="@string/animal" />
+
+        <item
+            android:id="@+id/elixir"
+            android:icon="@drawable/elixier"
+            android:title="@string/elixir" />
+
+        <item
+            android:id="@+id/sword"
+            android:icon="@drawable/hero"
+            android:title="@string/sword" />
+
+        <item
+            android:id="@+id/magic"
+            android:icon="@drawable/magic"
+            android:title="@string/magic" />
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/setting"
+            android:title="@string/about" />
+
+
+    </group>
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815945373023",
+    "firebase_url": "https://handbookwitcher3.firebaseio.com",
+    "project_id": "handbookwitcher3",
+    "storage_bucket": "handbookwitcher3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815945373023:android:93d93bf5363055071752ea",
+        "android_client_info": {
+          "package_name": "com.example.handbookwitcher3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815945373023-beqg454u46m08pj0gh5sqmd58af87jnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcHnb06qrkGDjyj1tCeVTIUVdf4zYC7kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815945373023-beqg454u46m08pj0gh5sqmd58af87jnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
